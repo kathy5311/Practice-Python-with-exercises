@@ -1,0 +1,1 @@
+print(list(zip(*['hello', 'ello', 'llo'])))
